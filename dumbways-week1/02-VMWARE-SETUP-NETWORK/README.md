@@ -1,4 +1,4 @@
-# Instalasi Ubuntu Server 18.04 pada VMWare Fusion
+# VMWARE SETUP NETWORK 
 
 1. Ubah network interfaces virtual mesin dari net ke bridge 
 ![10](../asset/010.png)
